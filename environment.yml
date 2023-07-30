@@ -1,0 +1,16 @@
+name: crime
+channels:
+- conda-forge
+- pkgs/main
+dependencies:
+- ca-certificates
+- certifi
+- gmaps
+- jupyter_contrib_nbextensions
+- matplotlib
+- notebook=5.7.8
+- openssl
+- pandas
+- pip
+- python
+
